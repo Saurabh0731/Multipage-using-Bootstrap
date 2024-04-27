@@ -175,9 +175,9 @@ a{
 
 /*shape dividers end */
 
-.common-section{
+/* .common-section{
     padding: 0 0 9rem 0;
-}
+} */
 
 .more-info-section{
     background-image: linear-gradient(rgba(22,22,22,0.9), rgba(22,22,22,0.9)), url("https://images.pexels.com/photos/316093/pexels-photo-316093.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
@@ -419,6 +419,9 @@ button, a{
     background-color: #1089ff;
 }
 
+html,body{
+    overflow-x: hidden;
+  }
 
 
 
